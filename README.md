@@ -1,10 +1,14 @@
 # SwiftUI
 
+In iOS development,  when it comes to creating intuitive and user friendly user interfaces SwiftUI is the state of the art.  
+In order to keep up to date in the iOS development world I’ve decided to take this [SwiftUI Course](https://www.udemy.com/course/swiftui-masterclass-course-ios-development-with-swift/).  
+This course teaches SwiftUI in a hands-on project-based way, covering topics  like concurrency, Core Data, Combine, complex animations, notifications and even the newly announced SwiftData to persist data.   
+To track my progress through the course I’ve decided to create this repository where I’ll be uploading the projects developed during the duration of the course along with updating the README file with a brief description of the projects. 
 
-In iOS development,  when it comes to creating intuitive and user friendly user interfaces SwiftUI is the state of the art.
-In order to keep up to date in the iOS development world I’ve decided to take this SwiftUI Course. 
-This course teaches SwiftUI in a hands-on project-based way, covering topics  like concurrency, Core Data, Combine, complex animations, notifications and even the newly announced SwiftData to persist data. 
-To track my progress through the course I’ve decided to create this repository where I’ll be uploading the projects developed during the duration of the course along with updating the README file with a brief description of the project. 
+<h2 align="center">Certificate of Completion</h2>
+
+![UC-ad524d6e-6aae-4f25-8f04-aa863eabf374](https://github.com/simaosamouco/SwiftUI/assets/37107794/c37c9f58-265b-4d6f-8172-85061a3c48da)
+
 
 ---
 <h3 align="center">Restart App</h3>
